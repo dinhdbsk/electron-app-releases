@@ -1,0 +1,12 @@
+{
+  "name": "electron-app-releases",
+  "version": "1.0.53",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "patch": "npm version patch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
